@@ -22,7 +22,7 @@
  - Generator: https://github.com/cliffe/SecGen/
  - GOAD: https://github.com/Orange-Cyberdefense/GOAD
  - CTF: https://www.vulnhub.com/
- - Malware Dev [I do not use any other resources but I do use the MALDEV classes to learn so heres that group]: https://maldevacademy.com/
+ - Malware Dev: https://maldevacademy.com/
  - REMnux: https://remnux.org/
  - Sliver [The C2 Framework I enjoy most]: https://github.com/BishopFox/sliver
 
