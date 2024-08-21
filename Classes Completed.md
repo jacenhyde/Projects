@@ -6,7 +6,7 @@
  - Network Enumeration with NMap
  - Footprinting
  - Information Gathering - Web Edition
- - VUlnerability Assessment
+ - Vulnerability Assessment
  - File Transfers
  - Shells & Payloads
  - Metasploit Framework
