@@ -21,7 +21,7 @@ if ($OS -eq "Linux") {
             $FormattedOutput = $Result.Output -join "`n"
             Write-Host "`n$FormattedOutput"
         } else {
-            Write-Host "No output received from the server."
+            Write-Host "Unable to connect to server."
         }
         do {
             Write-Host "`nWhat would you like to do next?"
