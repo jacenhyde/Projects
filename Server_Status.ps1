@@ -1,4 +1,4 @@
-﻿Write-Host "Linux Server Status Tool by Jacen Hyde"
+﻿Write-Host "Server Status Tool by Jacen Hyde"
 
 # IP?
 $IP = Read-Host "Enter Host IP"
