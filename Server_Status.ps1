@@ -1,3 +1,7 @@
+# Requirements 
+# > SSH on both Host and asset you wish to admin.
+# > Posh-SSH module for PowerShell
+
 ﻿Write-Host "Server Status Tool by Jacen Hyde"
 
 # IP?
