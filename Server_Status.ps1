@@ -54,7 +54,7 @@ if ($OS -eq "Linux") {
                     exit
                 }
                 default {
-                    Write-Host "Invalid option. Please choose a valid number."
+                    Write-Host "Please choose a valid number."
                 }
             }
         } while ($Choice -eq "1") # Loop if update is chosen in case more needs to be done
