@@ -65,8 +65,6 @@
 ## Zero Point Security [Technical with Labs]
  - Rust For Beginners
  - C# For Beginners
-
-### These moving forward are groups of the Certified Red Team Operator Class 
  - Command and Control
  - External Reconnaissance
  - Initial Compromise
